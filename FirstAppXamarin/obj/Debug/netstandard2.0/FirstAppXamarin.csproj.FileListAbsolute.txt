@@ -1,0 +1,13 @@
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\FirstAppXamarin.csprojAssemblyReference.cache
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\FirstAppXamarin.AssemblyInfoInputs.cache
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\FirstAppXamarin.AssemblyInfo.cs
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\FirstAppXamarin.dll
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\ref\FirstAppXamarin.dll
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\FirstAppXamarin.pdb
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\bin\Debug\netstandard2.0\FirstAppXamarin.deps.json
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\bin\Debug\netstandard2.0\FirstAppXamarin.dll
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\bin\Debug\netstandard2.0\ref\FirstAppXamarin.dll
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\bin\Debug\netstandard2.0\FirstAppXamarin.pdb
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\FirstAppXamarin\FirstAppXamarin\FirstAppXamarin\obj\Debug\netstandard2.0\XamlC.stamp
